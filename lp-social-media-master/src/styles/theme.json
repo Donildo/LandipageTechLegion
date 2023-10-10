@@ -1,0 +1,19 @@
+{
+    "colors":{
+      "black":"#000000",
+      "white":"#FFFFFF",
+      "whiteOpacity70":"#FFFFFF70",
+      "whiteOpacity50":"#F5f5f550",
+      "whiteOpacity05":"#D9D9D90D",
+      "greyOpacity20":"#E6E6E633",
+      "dark": "#101645",
+      "blue":"#00DBFF",
+      "darkBlue":"#0061FF",
+      "muted":"#95AFC0",
+      "gradienteBlue":"179.55deg, rgba(16, 22, 69, 0.8) 0.39%, rgba(0, 219, 255, 0.8) 269.69%;",
+      "gradienteWhite":"180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 36.36%);"
+
+
+    }
+  }
+
